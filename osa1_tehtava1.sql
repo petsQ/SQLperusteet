@@ -3,4 +3,5 @@ CREATE TABLE Henkilot(
    henkilot_etunimi       VARCHAR(40)   NOT NULL,
    henkilot_sukunimi      VARCHAR(40)   NOT NULL,
    henkilot_email         VARCHAR(100)
-)
+) 
+test
