@@ -4,4 +4,6 @@ CREATE TABLE Henkilot(
    henkilot_sukunimi      VARCHAR(40)   NOT NULL,
    henkilot_email         VARCHAR(100)
 ) 
+PR yritys
+
 
